@@ -2,7 +2,6 @@
 This project provides an in-depth analysis of sales data from a coffee shop chain. Using Excel, the data has been cleaned, summarized with pivot tables, and visualized through an interactive dashboard to derive actionable business insights.
 
 1. File Contents
-
 Contains three sheets:
 Data: Raw transactional sales data.
 Pivot table: Aggregated summaries of the data.
